@@ -1,2 +1,0 @@
-# silveralicorn.github.io
-Website
