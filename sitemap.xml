@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/welcome/</loc>
+    <loc>https://cosmosporia.com/welcome/</loc>
     <lastmod>2023-11-02T21:05:40-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/game/</loc>
+    <loc>https://cosmosporia.com/game/</loc>
     <lastmod>2023-11-02T18:55:19-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://cosmosporia.com/</loc>
     <lastmod>2023-11-02T18:51:42-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/gallery/</loc>
+    <loc>https://cosmosporia.com/gallery/</loc>
     <lastmod>2022-11-02T21:55:59-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://cosmosporia.com/about/</loc>
     <lastmod>1970-11-02T20:23:29-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://cosmosporia.com/categories/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://cosmosporia.com/tags/</loc>
   </url>
 </urlset>
